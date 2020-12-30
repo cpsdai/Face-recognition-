@@ -1,5 +1,6 @@
 ## Run backend
 - `pip install -r requirements.txt `
+- change directory `cd engine/dl`
 - run system `python server.py`
 
 ## Run UI
